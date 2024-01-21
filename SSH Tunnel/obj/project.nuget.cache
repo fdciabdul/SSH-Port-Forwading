@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uk5PyAbnQ0RKOoKMZrtpRFiougcdEMut4uKvAd+8Gq84UmX7f3jiQLH9yB2HSiW80WYf3ZxCY4nvHD40XkamZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\SSH Tunnel\\SSH Tunnel\\sshTunnel.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\ssh.net\\2023.0.1\\ssh.net.2023.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sshnet.security.cryptography\\1.3.0\\sshnet.security.cryptography.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

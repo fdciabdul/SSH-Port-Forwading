@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\SSH Tunnel\SSH Tunnel\bin\Release\net8.0-windows\app.publish\SSH Tunnel.exe
+C:\Users\Administrator\source\repos\SSH Tunnel\SSH Tunnel\bin\Release\net8.0-windows\app.publish\SSH Tunnel.dll
+C:\Users\Administrator\source\repos\SSH Tunnel\SSH Tunnel\bin\Release\net8.0-windows\app.publish\SSH Tunnel.deps.json
+C:\Users\Administrator\source\repos\SSH Tunnel\SSH Tunnel\bin\Release\net8.0-windows\app.publish\SSH Tunnel.runtimeconfig.json
+C:\Users\Administrator\source\repos\SSH Tunnel\SSH Tunnel\bin\Release\net8.0-windows\app.publish\SSH Tunnel.dll.config
+C:\Users\Administrator\source\repos\SSH Tunnel\SSH Tunnel\bin\Release\net8.0-windows\app.publish\SSH Tunnel.pdb
+C:\Users\Administrator\source\repos\SSH Tunnel\SSH Tunnel\bin\Release\net8.0-windows\app.publish\Renci.SshNet.dll
+C:\Users\Administrator\source\repos\SSH Tunnel\SSH Tunnel\bin\Release\net8.0-windows\app.publish\SshNet.Security.Cryptography.dll

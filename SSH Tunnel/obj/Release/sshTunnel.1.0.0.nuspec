@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>sshTunnel</id>
+    <version>1.0.0</version>
+    <title>SSHTunnel</title>
+    <authors>sshTunnel</authors>
+    <icon>Alecive-Flatwoken-Apps-Terminal-Ssh.512.png</icon>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="SSH.NET" version="2023.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0-windows7.0/Alecive-Flatwoken-Apps-Terminal-Ssh.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Administrator\source\repos\SSH Tunnel\SSH Tunnel\bin\Release\net8.0-windows\sshTunnel.runtimeconfig.json" target="lib\net8.0-windows7.0\sshTunnel.runtimeconfig.json" />
+    <file src="C:\Users\Administrator\source\repos\SSH Tunnel\SSH Tunnel\bin\Release\net8.0-windows\sshTunnel.dll" target="lib\net8.0-windows7.0\sshTunnel.dll" />
+    <file src="C:\Users\Administrator\source\repos\SSH Tunnel\SSH Tunnel\Alecive-Flatwoken-Apps-Terminal-Ssh.ico" target="content\Alecive-Flatwoken-Apps-Terminal-Ssh.ico" />
+    <file src="C:\Users\Administrator\source\repos\SSH Tunnel\SSH Tunnel\Alecive-Flatwoken-Apps-Terminal-Ssh.ico" target="contentFiles\any\net8.0-windows7.0\Alecive-Flatwoken-Apps-Terminal-Ssh.ico" />
+    <file src="C:\Users\Administrator\Downloads\Alecive-Flatwoken-Apps-Terminal-Ssh.512.png" target="\Alecive-Flatwoken-Apps-Terminal-Ssh.512.png" />
+  </files>
+</package>
